@@ -1,4 +1,4 @@
-# SMS.NET
+# SMSNET
 An unofficial library for [sms-activate.org](https://sms-activate.org)
 
 - [Installation](#installation)
