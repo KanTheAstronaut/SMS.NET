@@ -5,11 +5,16 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Authors>KanTheAstronaut</Authors>
-    <Description>Library for sms-activate.org</Description>
+    <Description>An unofficial library for sms-activate.org</Description>
     <Company>KanTheAstronaut</Company>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Version>0.0.1</Version>
+    <PackageProjectUrl>https://github.com/KanTheAstronaut/SMS.NET</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/KanTheAstronaut/SMS.NET</RepositoryUrl>
+    <PackageId>SMSNET</PackageId>
+    <NeutralLanguage>en</NeutralLanguage>
+    <Copyright>Copyright (c) 2022 Kan</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
