@@ -9,7 +9,7 @@ An unofficial library for [sms-activate.org](https://sms-activate.org)
 - [License](#license)
 
 ### Installation
-You can install this package via [nuget]() or by compiling the project yourself
+You can install this package via [nuget](https://www.nuget.org/packages/SMSNET) or by compiling the project yourself
 
 ### Get Started
 
